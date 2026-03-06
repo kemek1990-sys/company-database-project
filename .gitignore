@@ -1,0 +1,7 @@
+# Ignore system files and MySQL temp data
+.DS_Store
+*.ibd
+*.ibt
+*.pem
+var/
+home/
